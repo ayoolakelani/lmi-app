@@ -1,0 +1,8 @@
+@import '../../../styles/main.scss';
+
+.calculator__card{
+    display: flex;
+    justify-content: space-around;
+    margin: $m-size;
+    margin-bottom: 6rem;
+}
